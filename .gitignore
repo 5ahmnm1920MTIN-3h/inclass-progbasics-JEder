@@ -4,8 +4,14 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-.DS_Store
+[Pp]ackages
+
 Assets/AssetStoreTools*
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
 # Visual Studio cache directory
 .vs/
